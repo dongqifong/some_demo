@@ -1,6 +1,3 @@
-from typing import List
-
-from myfunc import Data
 from myfunc import generate_test_data, window_segmentation, show_results
 
 
